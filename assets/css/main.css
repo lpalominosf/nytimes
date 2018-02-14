@@ -17,6 +17,7 @@ body {
 #search-keyword {
   width: 50%;
   height: 25px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #submit-btn {
@@ -24,6 +25,7 @@ body {
   background: #777;
   width: 100px;
   height: 30px;
+  font-family: 'Open Sans', sans-serif;
 }
 
 #submit-btn:hover {
