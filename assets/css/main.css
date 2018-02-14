@@ -32,3 +32,7 @@ body {
   background: #555;
   cursor: pointer;
 }
+
+.articleClass {
+  color: #000;
+}
